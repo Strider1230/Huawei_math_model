@@ -1,13 +1,22 @@
-登机口,终端厅,区域,到达类型,出发类型,机体类别
+﻿登机口,终端厅,区域,到达类型,出发类型,机体类别
 T1,T,North,I,I,N
 T2,T,North,I,I,W
 T3,T,North,I,I,W
 T4,T,North,I,I,W
-T5,T,North,I,"D, I",W
-T6,T,North,"D, I","D, I",W
-T7,T,North,"D, I","D, I",N
-T8,T,North,"D, I",D,N
-T9,T,North,"D, I",D,N
+T5,T,North,I,I,W
+T5,T,North,I,D,W
+T6,T,North,D,D,N
+T6,T,North,D,I,N
+T6,T,North,I,D,N
+T6,T,North,I,I,N
+T7,T,North,D,D,N
+T7,T,North,D,I,N
+T7,T,North,I,D,N
+T7,T,North,I,I,N
+T8,T,North,I,D,N
+T8,T,North,D,D,N
+T9,T,North,I,D,N
+T9,T,South,D,D,N
 T10,T,Center,D,D,N
 T11,T,Center,D,D,N
 T12,T,Center,D,D,N
@@ -18,12 +27,24 @@ T16,T,Center,D,D,N
 T17,T,Center,D,D,N
 T18,T,Center,D,D,N
 T19,T,Center,D,D,N
-T20,T,South,D,"D, I",N
-T21,T,South,D,"D, I",N
-T22,T,South,"D, I","D, I",N
-T23,T,South,"D, I","D, I",W
-T24,T,South,"D, I","D, I",W
-T25,T,South,"D, I",I,W
+T20,T,South,D,D,N
+T20,T,South,D,I,N
+T21,T,South,D,D,N
+T21,T,South,D,I,N
+T22,T,South,D,D,N
+T22,T,South,D,I,N
+T22,T,South,I,D,N
+T22,T,South,I,I,N
+T23,T,South,D,D,W
+T23,T,South,D,I,W
+T23,T,South,I,D,W
+T23,T,South,I,I,W
+T24,T,South,D,D,W
+T24,T,South,D,I,W
+T24,T,South,I,D,W
+T24,T,South,I,I,W
+T25,T,South,D,I,W
+T25,T,South,I,I,W
 T26,T,South,I,I,W
 T27,T,South,I,I,W
 T28,T,South,I,I,W

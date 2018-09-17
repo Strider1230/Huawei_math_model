@@ -1,3 +1,5 @@
 eclipse.preferences.version=1
 encoding//data_process/data_process.py=utf-8
+encoding//model_create/create_graph_1.py=utf-8
+encoding//model_create/time_split.py=utf-8
 encoding/<project>=UTF-8
